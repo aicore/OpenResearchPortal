@@ -19,7 +19,7 @@ TODO: Edit this file for each project you create.
 This is a repository for Open Research Group page @ core.ai.
 
 ## Project Status
-* Not Active
+* Active
 
 # Getting Started
 * see https://github.com/aicore/OpenResearchPortal/blob/main/README.md
